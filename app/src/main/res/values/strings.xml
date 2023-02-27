@@ -4,4 +4,9 @@
     <string name="categories">Categories</string>
     <string name="tasks">Tasks</string>
     <string name="add_task">Add Task</string>
+    <string name="write_your_task">Write your Task</string>
+    <string name="business">Business</string>
+    <string name="personal">Personal</string>
+    <string name="other">Other</string>
+    <string name="btn_add_task">Add Task</string>
 </resources>
